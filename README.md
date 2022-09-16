@@ -1,15 +1,11 @@
 # Dying-Light-Music-mod-WSA-
 A lot of replaced Ambient, Quest and Locations music. Hope you'll Enjoy! :]
  
- One and The Only modification in web that replaces more than 75-80% of music/ambient for your favorite game - Dying Light! The main theme is 28 Days Later, but, you will hear some great tracks from another perfect movies!
+ One and The Only modification in web that replaces more than 75-80% of music/ambient in your favorite game - Dying Light! The main theme is 28 Days Later, but you'll hear some great tracks from another perfect movies!
  A giant work has been done. So, How to make soundtrack for Dying Light is my big big secret. It's hard, costs a lot of time, patience and concentration. But, if you want, i can do it for you. Just ask me about that... :)
 We Are Still Alone Music mod
-
-
-It's been a long time since the full WSA mod was announced here for the first time... Huh. Here is my present for you before my 29'th birthday come.
-
-
-More info about sound works:
+ 
+ More info about sound works:
 
 
  - replaced more than 120 different tracks at all (used many cool OSTs from good movies), cutted & reworked with tons of love! Remember, that the main target of mod was Brutality and to make deep Horror sence!
@@ -46,7 +42,8 @@ Compatible with all of known versions! (both of STEAM & FreePlay). You can use i
 INSTALLATION
 
 
-To install - Just throw all files to main game directory and accept replacement! Please, Enjoy!
+To install - Unpack Sound archives to ...\DyingLight\DW\Data folder and replace old ones;
+Data3.pak with script files need to be in ...\DyingLight\DW
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
