@@ -9,7 +9,7 @@ We Are Still Alone Music mod
 It's been a long time since the full WSA mod was announced here for the first time... Huh. Here is my present for you before my 29'th birthday come.
 
 
-You need more info about music, right? Here you are...:
+More info about sound works:
 
 
  - replaced more than 120 different tracks at all (used many cool OSTs from good movies), cutted & reworked with tons of love! Remember, that the main target of mod was Brutality and to make deep Horror sence!
@@ -52,6 +52,6 @@ To install - Just throw all files to main game directory and accept replacement!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ***************************************************************************************************************************************************************
 
-The mod is fully developed by Max Krukovski (CBAPLLLuK (NEXUS mods) or FogetTheCat (Discord/GITHub)). Suggestions are accepted on the mailbox yarvasdeveloper@mail.com 
+The mod is fully developed by Max Krukovski (CBAPLLLuK (NEXUS mods) or FogetTheCat (Discord/GITHub)). Suggestions are accepted on the mailbox yarvasdeveloper@gmail.com 
 
 If my work did not leave you indifferent and brought to the game a lot of new experiences, pls, don't forget to say Thank You.
